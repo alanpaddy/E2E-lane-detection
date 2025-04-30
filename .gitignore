@@ -1,0 +1,11 @@
+**Path:** `/E2E-lane-detection/.gitignore`
+
+```gitignore
+__pycache__/
+*.pyc
+*.pkl
+mlruns/
+*.onnx
+*.log
+.env
+*.ipynb_checkpoints
